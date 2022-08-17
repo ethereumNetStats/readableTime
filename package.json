@@ -1,0 +1,16 @@
+{
+  "name": "@pierogi.dev/readable_time",
+  "version": "1.0.0",
+  "main": "dist/main.ts",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
