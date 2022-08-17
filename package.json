@@ -1,6 +1,6 @@
 {
   "name": "@pierogi.dev/readable_time",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/main.ts",
   "types": "dist/main.d.ts",
   "license": "MIT",
