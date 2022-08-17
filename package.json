@@ -1,10 +1,12 @@
 {
   "name": "@pierogi.dev/readable_time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/main.ts",
+  "types": "dist/main.d.ts",
   "license": "MIT",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "tsc",
