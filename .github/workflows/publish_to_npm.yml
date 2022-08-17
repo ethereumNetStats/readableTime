@@ -15,7 +15,6 @@ jobs:
         with:
           node-version: '16.x'
           registry-url: 'https://registry.npmjs.org'
-          # ↓ package.json の name に含めたスコープを指定しておく
           scope       : '@pierogi.dev/readable_time'
           always-auth : true
         env :

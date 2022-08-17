@@ -1,7 +1,7 @@
 {
   "name": "@pierogi.dev/readable_time",
-  "version": "1.0.4",
-  "main": "dist/main.ts",
+  "version": "1.0.5",
+  "main": "dist/main.js",
   "types": "dist/main.d.ts",
   "license": "MIT",
   "files": [
