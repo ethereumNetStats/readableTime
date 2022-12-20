@@ -1,5 +1,5 @@
 {
-  "name": "@pierogi.dev/readable_time",
+  "name": "@ethereum_net_stats/readable_time",
   "version": "1.0.7",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
